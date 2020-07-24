@@ -22,11 +22,6 @@ _Lappeenranta, Finland | May 2020 - July 2020_
 
 Full Stack Development regarding different academic research projects at LUT University (React.js, Node.js, MongoDB, Docker Compose, GitHub Actions, Drupal).
 
-**FULL STACK DEVELOPER / RESEARCH ASSISTANT (FULLY REMOTE)** | **LUT UNIVERSITY**  
-_Remote Work, Finland | May 2020 - July 2020_
-
-Full Stack Development regarding different academic research projects at LUT University (React.js, Node.js, MongoDB, Docker Compose, GitHub Actions, Drupal).
-
 **FULL STACK ENGINEER / CLOUD DEVELOPER (FULLY REMOTE)** | **BEASTMAKER OY**  
 _Remote Work, Finland | March 2020 - Present_
 
