@@ -1,21 +1,23 @@
-### Joonas Ryynänen
+## Joonas Ryynänen
 
 **Full Stack Software Engineer / Consult**  
 joonas.ryynanen1@gmail.com
 
-#### Profile
+### Profile
 
-Full Stack Software Engineer specializing in web technologies and DevOps. I understand programming concepts in a deep level and know how to optimize my workflow.
+I am a Full Stack Software Engineer specializing in web technologies and DevOps. I understand programming concepts at a deep level and know how to optimize my workflow.
 
-#### Objective
+### Objective
 
-Find a challenging and long-term job that allows me to use my expertise. I also have other important things in my life so I expect my employer to embrace good work-life balance and the well-being of the staff.
+Find a challenging and long-term job that allows me to use my expertise. I also have other relevant things in my life, so I expect my employer to embrace a healthy work-life balance and the well-being of the staff.
 
-#### Skills & Abilities
+### Skills & Abilities
 
-Full Stack Development with various technologies. Software development workflow optimization via DevOps tools and culture. Planning architectures and documenting technical decisions in an understandable way.
+Full Stack Development with various technologies. Software development workflow optimization via DevOps tools and culture. Planning architectures and understandably documenting technical decisions.
 
-#### Experience
+---
+
+### Experience
 
 **FULL STACK DEVELOPER / RESEARCH ASSISTANT (FULLY REMOTE)** | **LUT UNIVERSITY**  
 _Lappeenranta, Finland | May 2020 - July 2020_
@@ -30,14 +32,16 @@ AWS Cloud development, Node.js back-end development, Android Mobile development 
 **FREELANCING PROJECTS (FULLY REMOTE)** | **NETTIKAUPPAPRO, RCK FINLAND OY, HUIPPUTIIMI OY**  
 _Remote Work, Finland | September 2018 - Present_
 
-Different projects regarding Full Stack development, Server Administration and Web Development (React.js, Cypress, Linux/Windows server administrating, Wordpress, Google Cloud, MySQL, etc).
+Different projects regarding Full Stack development, Server Administration, and Web Development (React.js, Cypress, Linux/Windows server administrating, WordPress, Google Cloud, MySQL, etc.).
 
 **FULL STACK DEVELOPER** | **FORTUM OYJ**  
 _Espoo, Finland | May 2019 - September 2019_
 
-Full Stack Web Development, Software testing, DevOps engineering (Java Spring, PostgreSQL, Jenkins, Robot Framework, jUnit).
+Full Stack Web Development, Software Testing, DevOps engineering (Java Spring, PostgreSQL, Jenkins, Robot Framework, jUnit).
 
-#### Education
+---
+
+### Education
 
 **LUT UNIVERSITY** | **LAPPEENRANTA**
 
@@ -45,12 +49,14 @@ Full Stack Web Development, Software testing, DevOps engineering (Java Spring, P
 - GPA 4.32/5
 - Thesis: Implementing of a DevOps deployment pipeline for a microservice-based web application (graded 5/5)
 
-#### Hobbies / Random facts
+---
 
-- :calendar: I love to **organize** things and follow a **strict schedule.**
+### Hobbies / Random facts
+
+- :calendar: I love to **organize** things and follow a **strict schedule**.
 - :bicyclist: I know how to play the **piano** pretty well. I also like to **cycle** and do **strength training** in my free time.
-- :computer: I **thrive** when I work **remotely.** I wake up **early** and love to do the most **intensive** and **cognitively challenging** work in the **mornings**.
-- :speech_balloon: I'm **independent** but know that a **well-functioning team** is more effective than **individuals**. It is important to **connect** with your colleagues and **communicate** on a daily basis (be it via text messages or via video meetings).
-- :zap: **Work-life balance** is important to me. That's why I **schedule** my days **carefully** and won't do extra work unless it's absolutely necessary.
+- :computer: I **thrive** when I work **remotely**. I wake up **early** and love to do the most **intensive** and **cognitively challenging** work in the **mornings**.
+- :speech_balloon: I'm **independent** but know that a **well-functioning team** is more effective than **individuals**. It is essential to **connect** with your colleagues and **communicate** daily (be it via text messages or video meetings).
+- :zap: **Work-life balance** is crucial to me. That's why I **schedule** my days **carefully** and won't do extra work unless it's necessary.
 
 ![Joonas' Github Stats](https://github-readme-stats.vercel.app/api?username=JonesTPG&show_icons=true&hide_border=true)
