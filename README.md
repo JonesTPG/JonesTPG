@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer specializing in web technologies and DevOps.
 
 ### Objective
 
-Find a challenging and long-term job that allows me to use my expertise. I also have other relevant things in my life, so I expect my employer to embrace a healthy work-life balance and the well-being of the staff.
+Utilize my skills in a good work environment, where the drive and motivation of the stuff is at a high level. I also have other relevant things in my life, so I expect my employer to embrace a healthy work-life balance and the well-being of the staff.
 
 ### Skills & Abilities
 
@@ -18,6 +18,11 @@ Full Stack Development with various technologies. Software development workflow 
 ---
 
 ### Experience
+
+**DEVOPS / SOFTWARE ARCHITECT ** | **MEDIASIGNAL GROUP OY**  
+_Joensuu, Finland | August 2021 - 
+
+Full Stack Development (Node.js, Laravel, React.js). DevOps and Cloud Infrastructure (Google Cloud Build, Compute Engine, Cloud Run). Software solution architect (integrations).
 
 **FULL STACK DEVELOPER / RESEARCH ASSISTANT (FULLY REMOTE)** | **LUT UNIVERSITY**  
 _Lappeenranta, Finland | May 2020 - July 2020_
