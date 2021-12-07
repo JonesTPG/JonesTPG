@@ -50,6 +50,13 @@ Full Stack Web Development, Software Testing, DevOps engineering (Java Spring, P
 
 **LUT UNIVERSITY** | **LAPPEENRANTA**
 
+- Master of Science (Software Product Management and Business)
+- GPA 4.50/5
+- Thesis: Creating a framework for planning software delivery pipelines (graded 5/5)
+
+
+**LUT UNIVERSITY** | **LAPPEENRANTA**
+
 - Bachelor of Science (Computer Science)
 - GPA 4.32/5
 - Thesis: Implementing of a DevOps deployment pipeline for a microservice-based web application (graded 5/5)
