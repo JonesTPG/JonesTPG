@@ -9,7 +9,7 @@ I am a Full Stack Software Engineer specializing in web technologies and DevOps.
 
 ### Objective
 
-Utilize my skills in a good work environment, where the drive and motivation of the stuff is at a high level. I also have other relevant things in my life, so I expect my employer to embrace a healthy work-life balance and the well-being of the staff.
+Utilize my skills in a good work environment, where the drive and motivation of the staff is at a high level. I also have other relevant things in my life, so I expect my employer to embrace a healthy work-life balance and the well-being of the staff.
 
 ### Skills & Abilities
 
