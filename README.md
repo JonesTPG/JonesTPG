@@ -20,7 +20,7 @@ Full Stack Development with various technologies. Software development workflow 
 ### Experience
 
 **DEVOPS / SOFTWARE ARCHITECT** | **MEDIASIGNAL GROUP OY**  
-_Joensuu, Finland | August 2021 - 
+_Joensuu, Finland | August 2021 -_ 
 
 Full Stack Development (Node.js, Laravel, React.js). DevOps and Cloud Infrastructure (Google Cloud Build, Compute Engine, Cloud Run). Software solution architect (integrations).
 
