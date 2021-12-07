@@ -1,6 +1,6 @@
 ## Joonas Ryynänen
 
-**Full Stack Software Engineer / Consult**  
+**Full Stack Developer & DevOps / Software architect**  
 joonas.ryynanen1@gmail.com
 
 ### Profile
